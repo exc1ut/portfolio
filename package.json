@@ -8,7 +8,8 @@
     "develop": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "keywords": [
     "gatsby"
@@ -52,6 +53,7 @@
     "@types/react-dom": "^17.0.0",
     "@types/react-helmet": "^6.1.0",
     "dotenv": "^10.0.0",
+    "gh-pages": "^4.0.0",
     "typescript": "^4.1.2"
   }
 }
