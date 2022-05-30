@@ -1,0 +1,44 @@
+[
+	{
+		"title": "Aparto",
+		"slug": "aparto",
+		"description": "«Aparto» works on an exclusive basis only with verified real estate of any format",
+		"tags": [
+			"React",
+			"Express.js",
+			"TypeScript",
+			"MongoDb"
+		],
+		"source": "https://github.com/exc1ut",
+		"demo": "https://aparto.uz/",
+		"thumb": "./images/Aparto-cover.png"
+	},
+	{
+		"title": "Soliq.uz",
+		"slug": "soliq-uz",
+		"description": "The new system of public control 'Tax Partner' is another step towards protecting consumer rights and combating the shadow economy.",
+		"tags": [
+			"Next.js",
+			"TypeScript",
+			"Micro-frontend",
+			"Beta"
+		],
+		"source": "https://github.com/exc1ut",
+		"demo": "https://new.my.soliq.uz/",
+		"thumb": "./images/soliq.png"
+	},
+	{
+		"title": "Hoffman",
+		"slug": "hoffman",
+		"description": "Hofmann is a modern, affordable brand that develops and offers you branded home appliances for your home.",
+		"tags": [
+			"React",
+			"Nest.js",
+			"TypeScript",
+			"Socket.io"
+		],
+		"source": "https://github.com/exc1ut",
+		"demo": "https://kittekgroup.com/",
+		"thumb": "./images/hoffman.jpg"
+	}
+]

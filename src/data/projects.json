@@ -1,0 +1,419 @@
+[
+	{
+		"title": "Aparto",
+		"slug": "aparto",
+		"description": "A personal home dashboard hosted on a Raspberry Pi featuring a calendar, weather stats, lists, and pet and plant schedules.",
+		"writing": {
+			"process": "«Aparto» works on an exclusive basis only with verified real estate of any format. Our main goal is to provide professional services for sale, purchase and rental of residential and commercial real estate.",
+			"processSub": "Banks, the state, real estate developers regularly improve conditions and opportunities for clients who are going to buy housing on a mortgage – they reduce rates, offer discounts and premiums.",
+			"conclusion": [
+				""
+			]
+		},
+		"stack": [
+			"React",
+			"Express.js",
+			"TypeScript",
+			"MongoDb"
+		],
+		"tags": [
+			"React",
+			"Express.js",
+			"TypeScript",
+			"MongoDb"
+		],
+		"source": "https://github.com/exc1ut",
+		"demo": "https://aparto.uz/",
+		"thumb": "./images/Aparto-cover.png",
+		"images": [
+			"./images/Aparto-cover.png",
+			"./images/aparto-1.png",
+			"./images/aparto-2.png",
+			"./images/aparto-3.png",
+			"./images/aparto-4.png"
+		],
+		"resources": [
+			"https://www.typescriptlang.org/docs/home.html"
+		]
+	},
+	{
+		"title": "Soliq.uz",
+		"slug": "soliq-uz",
+		"description": "The new system of public control 'Tax Partner' is another step towards protecting consumer rights and combating the shadow economy.",
+		"writing": {
+			"process": "A new portal of electronic public services of tax authorities has been launched - 'Electronic Tax Services' The portal of electronic public services 'Electronic Tax Services' was developed as part of the project to integrate the complex of information systems 'Soliq' to provide interactive services in the field of taxation. ",
+			"processSub": "The main goals of the project are to optimize the provision of electronic public services by tax authorities to the population and businesses, improve their quality and accessibility, reduce administrative costs associated with obtaining services and, as a result, increase the level of satisfaction of citizens of Uzbekistan with the quality of services provided. For the phased transfer of communication between taxpayers and tax authorities from real to virtual, one of the main goals is also to ensure the availability and functionality of the 'Personal Taxpayer Account'. In a relatively short period, the tasks of creating a dedicated infrastructure based on the data processing center of the State Tax Committee, databases and application programming interfaces for their filling were solved. A complex application has been created for administration and vertical monitoring of qualitative and quantitative indicators of the provision of electronic services, the formation of statistics on the number of users and access to services.",
+			"conclusion": [
+				""
+			]
+		},
+		"stack": [
+			"Next.js",
+			"TypeScript",
+			"Micro-frontend",
+			"Beta"
+		],
+		"tags": [
+			"React",
+			"Express.js",
+			"TypeScript",
+			"MongoDb"
+		],
+		"source": "https://github.com/exc1ut",
+		"demo": "https://new.my.soliq.uz/",
+		"thumb": "./images/soliq.png",
+		"images": [
+			"./images/Soliq-cover.png",
+			"./images/soliq-1.png",
+			"./images/soliq-2.png",
+			"./images/soliq-3.png",
+			"./images/soliq-4.png"
+		],
+		"resources": [
+			"https://www.typescriptlang.org/docs/home.html"
+		]
+	},
+	{
+		"title": "Hoffman",
+		"slug": "hoffman",
+		"description": "Hofmann is a modern, affordable brand that develops and offers you branded home appliances for your home.",
+		"writing": {
+			"process": "The Hoffman Erp system allows you to control and administer warehouse operations from the time goods or materials enter a warehouse until they move out.",
+			"processSub": "The purpose of this project is to help ensure that goods and materials move through warehouses in the most efficient and cost-effective way. It handles many functions that enable these movements, including inventory tracking, picking, receiving and putaway.",
+			"conclusion": [
+				""
+			]
+		},
+		"stack": [
+			"React",
+			"Nest.js",
+			"TypeScript",
+			"Socket.io"
+		],
+		"tags": [
+			"Next.js",
+			"TypeScript",
+			"Micro-frontend",
+			"Beta"
+		],
+		"source": "https://github.com/exc1ut",
+		"demo": "https://kittekgroup.com/",
+		"thumb": "./images/hoffman.jpg",
+		"images": [
+			"./images/hoffman-1.png",
+			"./images/hoffman-2.png",
+			"./images/hoffman-3.png",
+			"./images/hoffman-4.png"
+		],
+		"resources": [
+			"https://www.typescriptlang.org/docs/home.html"
+		]
+	},
+	{
+		"title": "Dmozzi",
+		"slug": "dmozzi",
+		"description": "Dmozzi is a convenient and fast food delivery service from restaurants. Order on the website or in the mobile application, pay by card or cash, and we will deliver your favorite food quickly right to your door.",
+		"writing": {
+			"process": "Dmozzi is a convenient and fast food delivery service from restaurants. Order on the website or in the mobile application, pay by card or cash, and we will deliver your favorite food quickly right to your door.",
+			"processSub": "Choosing the best restaurants, we cover all the dishes that you might like: juicy burgers or steaks, fragrant pizza or pasta, wok or rolls, porridge for breakfast or pilaf for lunch - Dmozzi brings together all the cuisines available in the city so that you can time to try something new.",
+			"conclusion": [
+				""
+			]
+		},
+		"stack": [],
+		"tags": [],
+		"source": "https://github.com/exc1ut",
+		"demo": "http://dmozzi.uz/",
+		"thumb": "./images/hoffman.jpg",
+		"images": [
+			"./images/dmozzi-1.png",
+			"./images/dmozzi-2.png",
+			"./images/dmozzi-3.png",
+			"./images/dmozzi-4.png",
+			"./images/dmozzi-5.png"
+		],
+		"resources": [
+			"https://www.typescriptlang.org/docs/home.html"
+		]
+	},
+	{
+		"title": "Qymfuk",
+		"slug": "qymfuk",
+		"description": "Mobile application and dashboard for the ERP system",
+		"writing": {
+			"process": "Mobile application and dashboard for the ERP system",
+			"processSub": "",
+			"conclusion": [
+				""
+			]
+		},
+		"stack": [
+			"PostgreSQL",
+			"Nest.js",
+			"React Native",
+			"Socket.io"
+		],
+		"tags": [
+			"Next.js",
+			"TypeScript",
+			"Micro-frontend",
+			"Beta"
+		],
+		"source": "https://github.com/exc1ut",
+		"demo": "https://qymfuk.uz/",
+		"thumb": "./images/hoffman.jpg",
+		"images": [
+			"./images/q-1.png",
+			"./images/q-2.png",
+			"./images/q-3.png",
+			"./images/q-4.png",
+			"./images/q-5.png"
+		],
+		"resources": [
+			"https://www.typescriptlang.org/docs/home.html"
+		]
+	},
+	{
+		"title": "Juft",
+		"slug": "juft",
+		"description": "Juft's mission is to provide a platform to Uzbekistan's citizen to find future spouses and build happy marriages.",
+		"writing": {
+			"process": "Juft's mission is to provide a platform to Uzbekistan's citizen to find future spouses and build happy marriages.",
+			"processSub": "",
+			"conclusion": [
+				""
+			]
+		},
+		"stack": [
+			"React",
+			"Nest.js",
+			"TypeScript",
+			"Socket.io"
+		],
+		"tags": [
+			"Next.js",
+			"TypeScript",
+			"Micro-frontend",
+			"Beta"
+		],
+		"source": "https://github.com/exc1ut",
+		"demo": "https://juft.net/",
+		"thumb": "./images/hoffman.jpg",
+		"images": [
+			"./images/juft-1.png",
+			"./images/juft-2.png",
+			"./images/juft-3.png"
+		],
+		"resources": [
+			"https://www.typescriptlang.org/docs/home.html"
+		]
+	},
+	{
+		"title": "Aninews",
+		"slug": "aninews",
+		"description": "Pet project for anime lovers",
+		"writing": {
+			"process": "Pet project for anime lovers",
+			"processSub": "",
+			"conclusion": [
+				""
+			]
+		},
+		"stack": [
+			"React",
+			"Express"
+		],
+		"tags": [
+			"Next.js",
+			"TypeScript",
+			"Micro-frontend",
+			"Beta"
+		],
+		"source": "https://github.com/exc1ut",
+		"demo": "https://aninews.herokuapp.com/",
+		"thumb": "./images/hoffman.jpg",
+		"images": [
+			"./images/ani-1.png",
+			"./images/ani-2.png",
+			"./images/ani-3.png",
+			"./images/ani-4.png"
+		],
+		"resources": [
+			"https://www.typescriptlang.org/docs/home.html"
+		]
+	},
+	{
+		"title": "Oqila",
+		"slug": "oqila",
+		"description": "Simple landing page for a web studio",
+		"writing": {
+			"process": "Simple landing page for a web studio",
+			"processSub": "",
+			"conclusion": [
+				""
+			]
+		},
+		"stack": [
+			"Html",
+			"Css",
+			"JQuery"
+		],
+		"tags": [
+			"Next.js",
+			"TypeScript",
+			"Micro-frontend",
+			"Beta"
+		],
+		"source": "https://github.com/exc1ut",
+		"demo": "https://oqila.uz/",
+		"thumb": "./images/hoffman.jpg",
+		"images": [
+			"./images/oqila-1.png",
+			"./images/oqila-2.png",
+			"./images/oqila-3.png"
+		],
+		"resources": [
+			"https://www.typescriptlang.org/docs/home.html"
+		]
+	},
+	{
+		"title": "Halal Baraka",
+		"slug": "halal-baraka",
+		"description": "Halal Baraka - supporting healthy and productive lifestyles",
+		"writing": {
+			"process": "Halal Baraka - supporting healthy and productive lifestyles",
+			"processSub": "SAUSAGE MANUFACTURER AND MEAT PRODUCTS IN SOUTH KOREA.",
+			"conclusion": [
+				""
+			]
+		},
+		"stack": [
+			"PHP",
+			"JQuery",
+			"Yii",
+			"Mysql"
+		],
+		"tags": [
+			"Next.js",
+			"TypeScript",
+			"Micro-frontend",
+			"Beta"
+		],
+		"source": "https://github.com/exc1ut",
+		"demo": "http://halalbaraka.com/",
+		"thumb": "./images/hoffman.jpg",
+		"images": [
+			"./images/halal-1.png",
+			"./images/halal-2.png",
+			"./images/halal-3.png",
+			"./images/halal-4.png",
+			"./images/halal-5.png"
+		],
+		"resources": [
+			"https://www.typescriptlang.org/docs/home.html"
+		]
+	},
+	{
+		"title": "Auz",
+		"slug": "auz",
+		"description": "I made mobile application for Auz.uz",
+		"writing": {
+			"process": "I made mobile application for Auz.uz",
+			"processSub": "",
+			"conclusion": [
+				""
+			]
+		},
+		"stack": [
+			"React",
+			"React-native"
+		],
+		"tags": [
+			"Next.js",
+			"TypeScript",
+			"Micro-frontend",
+			"Beta"
+		],
+		"source": "https://github.com/exc1ut",
+		"demo": "https://apps.apple.com/uz/app/auz/id1473386385",
+		"thumb": "./images/hoffman.jpg",
+		"images": [
+			"./images/auz-1.png",
+			"./images/auz-2.png",
+			"./images/auz-3.png",
+			"./images/auz-4.png"
+		],
+		"resources": [
+			"https://www.typescriptlang.org/docs/home.html"
+		]
+	},
+	{
+		"title": "Tiyin",
+		"slug": "tiyin",
+		"description": "Tiyin.uz is an online economic magazine, developed in 2017 by Oqila web studio on behalf of Pharm Phone.",
+		"writing": {
+			"process": "Tiyin.uz is an online economic magazine, developed in 2017 by Oqila web studio on behalf of Pharm Phone. Economist, Business Insider, etc.) is aimed at increasing the economic literacy of our people. The online journal effectively cooperates with state and public organizations and private entrepreneurs in the territory of the country and abroad within the framework of the legislation of the Republic of Uzbekistan.",
+			"processSub": "The Editor of the Online Journal is not obligated to respond separately to each of the letters and inquiries sent to it. The source himself is responsible for the official message and articles cited.",
+			"conclusion": [
+				""
+			]
+		},
+		"stack": [
+			"React",
+			"React-native",
+			"TypeScript",
+			"Socket.io"
+		],
+		"tags": [
+			"Next.js",
+			"TypeScript",
+			"Micro-frontend",
+			"Beta"
+		],
+		"source": "https://github.com/exc1ut",
+		"demo": "https://apps.apple.com/uz/app/tiyin/id1468649050",
+		"thumb": "./images/hoffman.jpg",
+		"images": [
+			"./images/tiyin-1.png",
+			"./images/tiyin-2.png",
+			"./images/tiyin-3.png"
+		],
+		"resources": [
+			"https://www.typescriptlang.org/docs/home.html"
+		]
+	},
+	{
+		"title": "Aslbazar",
+		"slug": "aslbazar",
+		"description": "Aslbazar.com helps local manufacturers run their businesses. It serves to facilitate the interaction of manufacturers, entrepreneurs and buyers using the power and speed of e-commerce.",
+		"writing": {
+			"process": "Aslbazar.com helps local manufacturers run their businesses. It serves to facilitate the interaction of manufacturers, entrepreneurs and buyers using the power and speed of e-commerce.",
+			"processSub": "",
+			"conclusion": [
+				""
+			]
+		},
+		"stack": [
+			"React",
+			"React-native"
+		],
+		"tags": [
+			"Next.js",
+			"TypeScript",
+			"Micro-frontend",
+			"Beta"
+		],
+		"source": "https://github.com/exc1ut",
+		"demo": "https://apps.apple.com/uz/app/aslbazar/id1472989641",
+		"thumb": "./images/hoffman.jpg",
+		"images": [
+			"./images/aslbazar-1.webp",
+			"./images/aslbazar-2.webp",
+			"./images/aslbazar-3.webp",
+			"./images/aslbazar-4.webp"
+		],
+		"resources": [
+			"https://www.typescriptlang.org/docs/home.html"
+		]
+	}
+]
