@@ -1,7 +1,7 @@
 /*eslint  jsx-a11y/control-has-associated-label: "off"*/
 import React from "react";
 import { HiOutlineMail } from "react-icons/hi";
-import { SiGithub, SiLinkedin } from "react-icons/si";
+import { SiGithub, SiLinkedin, SiTelegram } from "react-icons/si";
 
 import "../../styles/sections/contact.scss";
 
@@ -35,6 +35,11 @@ const Contact: React.FC = () => (
         >
           <button>
             <SiLinkedin />
+          </button>
+        </a>
+        <a href="https://t.me/exc1ut" target="_blank" rel="noreferrer">
+          <button>
+            <SiTelegram />
           </button>
         </a>
       </div>
