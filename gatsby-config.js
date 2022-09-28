@@ -8,7 +8,7 @@ module.exports = {
     description: `Software Developer Portfolio`,
     author: `@Umid`,
   },
-  pathPrefix: "/portfolio",
+  pathPrefix: "/",
   plugins: [
     `gatsby-plugin-typescript`,
     `gatsby-plugin-smoothscroll`,

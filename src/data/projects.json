@@ -24,13 +24,13 @@
 		],
 		"source": "https://github.com/exc1ut",
 		"demo": "https://aparto.uz/",
-		"thumb": "./images/Aparto-cover.png",
+		"thumb": "./images/Aparto-cover.jpg",
 		"images": [
-			"./images/Aparto-cover.png",
-			"./images/aparto-1.png",
-			"./images/aparto-2.png",
-			"./images/aparto-3.png",
-			"./images/aparto-4.png"
+			"./images/Aparto-cover.jpg",
+			"./images/aparto-1.jpg",
+			"./images/aparto-2.jpg",
+			"./images/aparto-3.jpg",
+			"./images/aparto-4.jpg"
 		],
 		"resources": [
 			"https://www.typescriptlang.org/docs/home.html"
@@ -61,13 +61,13 @@
 		],
 		"source": "https://github.com/exc1ut",
 		"demo": "https://new.my.soliq.uz/",
-		"thumb": "./images/soliq.png",
+		"thumb": "./images/soliq.jpg",
 		"images": [
-			"./images/Soliq-cover.png",
-			"./images/soliq-1.png",
-			"./images/soliq-2.png",
-			"./images/soliq-3.png",
-			"./images/soliq-4.png"
+			"./images/Soliq-cover.jpg",
+			"./images/soliq-1.jpg",
+			"./images/soliq-2.jpg",
+			"./images/soliq-3.jpg",
+			"./images/soliq-4.jpg"
 		],
 		"resources": [
 			"https://www.typescriptlang.org/docs/home.html"
@@ -100,10 +100,10 @@
 		"demo": "https://kittekgroup.com/",
 		"thumb": "./images/hoffman.jpg",
 		"images": [
-			"./images/hoffman-1.png",
-			"./images/hoffman-2.png",
-			"./images/hoffman-3.png",
-			"./images/hoffman-4.png"
+			"./images/hoffman-1.jpg",
+			"./images/hoffman-2.jpg",
+			"./images/hoffman-3.jpg",
+			"./images/hoffman-4.jpg"
 		],
 		"resources": [
 			"https://www.typescriptlang.org/docs/home.html"
@@ -120,17 +120,60 @@
 				""
 			]
 		},
-		"stack": [],
+		"stack": [
+			"React",
+			"TypeScript"
+		],
 		"tags": [],
 		"source": "https://github.com/exc1ut",
 		"demo": "http://dmozzi.uz/",
 		"thumb": "./images/hoffman.jpg",
 		"images": [
-			"./images/dmozzi-1.png",
-			"./images/dmozzi-2.png",
-			"./images/dmozzi-3.png",
-			"./images/dmozzi-4.png",
-			"./images/dmozzi-5.png"
+			"./images/dmozzi-1.jpg",
+			"./images/dmozzi-2.jpg",
+			"./images/dmozzi-3.jpg",
+			"./images/dmozzi-4.jpg",
+			"./images/dmozzi-5.jpg"
+		],
+		"resources": [
+			"https://www.typescriptlang.org/docs/home.html"
+		]
+	},
+	{
+		"title": "E-cash",
+		"slug": "E-cash",
+		"description": "An erp desktop application that works on the local network for a roof manufacturer ",
+		"writing": {
+			"process": "An erp desktop application that works on the local network for a roof manufacturer",
+			"processSub": "",
+			"conclusion": [
+				""
+			]
+		},
+		"stack": [
+			"React",
+			"Electron",
+			"Nest.js",
+			"TypeScript",
+			"Socket.io"
+		],
+		"tags": [
+			"Next.js",
+			"TypeScript",
+			"Erp system"
+		],
+		"source": "https://github.com/exc1ut/Market",
+		"demo": "https://github.com/exc1ut/Market",
+		"thumb": "./images/hoffman.jpg",
+		"images": [
+			"./images/market-1.jpg",
+			"./images/market-2.jpg",
+			"./images/market-3.jpg",
+			"./images/market-4.jpg",
+			"./images/market-5.jpg",
+			"./images/market-6.jpg",
+			"./images/market-7.jpg",
+			"./images/market-8.jpg"
 		],
 		"resources": [
 			"https://www.typescriptlang.org/docs/home.html"
@@ -163,11 +206,11 @@
 		"demo": "https://qymfuk.uz/",
 		"thumb": "./images/hoffman.jpg",
 		"images": [
-			"./images/q-1.png",
-			"./images/q-2.png",
-			"./images/q-3.png",
-			"./images/q-4.png",
-			"./images/q-5.png"
+			"./images/q-1.jpg",
+			"./images/q-2.jpg",
+			"./images/q-3.jpg",
+			"./images/q-4.jpg",
+			"./images/q-5.jpg"
 		],
 		"resources": [
 			"https://www.typescriptlang.org/docs/home.html"
@@ -200,9 +243,9 @@
 		"demo": "https://juft.net/",
 		"thumb": "./images/hoffman.jpg",
 		"images": [
-			"./images/juft-1.png",
-			"./images/juft-2.png",
-			"./images/juft-3.png"
+			"./images/juft-1.jpg",
+			"./images/juft-2.jpg",
+			"./images/juft-3.jpg"
 		],
 		"resources": [
 			"https://www.typescriptlang.org/docs/home.html"
@@ -211,9 +254,9 @@
 	{
 		"title": "Aninews",
 		"slug": "aninews",
-		"description": "Pet project for anime lovers",
+		"description": "News portal for anime lovers",
 		"writing": {
-			"process": "Pet project for anime lovers",
+			"process": "News for anime lovers",
 			"processSub": "",
 			"conclusion": [
 				""
@@ -224,54 +267,112 @@
 			"Express"
 		],
 		"tags": [
+			"Pet Project",
 			"Next.js",
 			"TypeScript",
-			"Micro-frontend",
 			"Beta"
 		],
 		"source": "https://github.com/exc1ut",
 		"demo": "https://aninews.herokuapp.com/",
 		"thumb": "./images/hoffman.jpg",
 		"images": [
-			"./images/ani-1.png",
-			"./images/ani-2.png",
-			"./images/ani-3.png",
-			"./images/ani-4.png"
+			"./images/ani-1.jpg",
+			"./images/ani-2.jpg",
+			"./images/ani-3.jpg",
+			"./images/ani-4.jpg"
 		],
 		"resources": [
 			"https://www.typescriptlang.org/docs/home.html"
 		]
 	},
 	{
-		"title": "Oqila",
-		"slug": "oqila",
-		"description": "Simple landing page for a web studio",
+		"title": "Haunted house",
+		"slug": "hauntedhouse",
+		"description": "Haunted house using React three fiber",
 		"writing": {
-			"process": "Simple landing page for a web studio",
+			"process": "Haunted house using React three fiber",
 			"processSub": "",
 			"conclusion": [
 				""
 			]
 		},
 		"stack": [
-			"Html",
-			"Css",
-			"JQuery"
-		],
-		"tags": [
 			"Next.js",
 			"TypeScript",
-			"Micro-frontend",
-			"Beta"
+			"Three.js",
+			"React three fiber"
+		],
+		"tags": [
+			"Pet Project",
+			"Next.js",
+			"TypeScript",
+			"Three.js",
+			"React three fiber"
 		],
 		"source": "https://github.com/exc1ut",
-		"demo": "https://oqila.uz/",
+		"demo": "https://haunted-house-react-three.vercel.app/",
 		"thumb": "./images/hoffman.jpg",
 		"images": [
-			"./images/oqila-1.png",
-			"./images/oqila-2.png",
-			"./images/oqila-3.png"
+			"./images/haunted-1.jpg",
+			"./images/haunted-2.jpg"
 		],
+		"resources": [
+			"https://www.typescriptlang.org/docs/home.html"
+		]
+	},
+	{
+		"title": "VampJump",
+		"slug": "vampjump",
+		"description": "Simple 2d runner game using html5 canvas",
+		"writing": {
+			"process": "Simple 2d runner game using html5 canvas",
+			"processSub": "",
+			"conclusion": [
+				""
+			]
+		},
+		"stack": [
+			"Javascript",
+			"Canvas"
+		],
+		"tags": [
+			"Canvas",
+			"Javascript"
+		],
+		"source": "https://github.com/exc1ut",
+		"demo": "https://aninews.herokuapp.com/",
+		"thumb": "./images/hoffman.jpg",
+		"images": [
+			"./images/vamp-1.jpg",
+			"./images/vamp-2.jpg"
+		],
+		"resources": [
+			"https://www.typescriptlang.org/docs/home.html"
+		]
+	},
+	{
+		"title": "WalletPack",
+		"slug": "Walletpack",
+		"description": "This is a wallet building SDK which takes care of all of the heavy lifting for creating blockchain wallets.",
+		"writing": {
+			"process": "This is a wallet building SDK which takes care of all of the heavy lifting for creating blockchain wallets.",
+			"processSub": "",
+			"conclusion": [
+				""
+			]
+		},
+		"stack": [
+			"Javascript",
+			"Nodejs"
+		],
+		"tags": [
+			"Javascript",
+			"Nodejs"
+		],
+		"source": "https://github.com/exc1ut/blockchain",
+		"demo": "https://github.com/exc1ut/blockchain",
+		"thumb": "./images/hoffman.jpg",
+		"images": [],
 		"resources": [
 			"https://www.typescriptlang.org/docs/home.html"
 		]
@@ -303,11 +404,11 @@
 		"demo": "http://halalbaraka.com/",
 		"thumb": "./images/hoffman.jpg",
 		"images": [
-			"./images/halal-1.png",
-			"./images/halal-2.png",
-			"./images/halal-3.png",
-			"./images/halal-4.png",
-			"./images/halal-5.png"
+			"./images/halal-1.jpg",
+			"./images/halal-2.jpg",
+			"./images/halal-3.jpg",
+			"./images/halal-4.jpg",
+			"./images/halal-5.jpg"
 		],
 		"resources": [
 			"https://www.typescriptlang.org/docs/home.html"
@@ -338,10 +439,10 @@
 		"demo": "https://apps.apple.com/uz/app/auz/id1473386385",
 		"thumb": "./images/hoffman.jpg",
 		"images": [
-			"./images/auz-1.png",
-			"./images/auz-2.png",
-			"./images/auz-3.png",
-			"./images/auz-4.png"
+			"./images/auz-1.jpg",
+			"./images/auz-2.jpg",
+			"./images/auz-3.jpg",
+			"./images/auz-4.jpg"
 		],
 		"resources": [
 			"https://www.typescriptlang.org/docs/home.html"
@@ -374,9 +475,9 @@
 		"demo": "https://apps.apple.com/uz/app/tiyin/id1468649050",
 		"thumb": "./images/hoffman.jpg",
 		"images": [
-			"./images/tiyin-1.png",
-			"./images/tiyin-2.png",
-			"./images/tiyin-3.png"
+			"./images/tiyin-1.jpg",
+			"./images/tiyin-2.jpg",
+			"./images/tiyin-3.jpg"
 		],
 		"resources": [
 			"https://www.typescriptlang.org/docs/home.html"
@@ -407,10 +508,44 @@
 		"demo": "https://apps.apple.com/uz/app/aslbazar/id1472989641",
 		"thumb": "./images/hoffman.jpg",
 		"images": [
-			"./images/aslbazar-1.webp",
-			"./images/aslbazar-2.webp",
-			"./images/aslbazar-3.webp",
-			"./images/aslbazar-4.webp"
+			"./images/aslbazar-1.jpg",
+			"./images/aslbazar-2.jpg",
+			"./images/aslbazar-3.jpg",
+			"./images/aslbazar-4.jpg"
+		],
+		"resources": [
+			"https://www.typescriptlang.org/docs/home.html"
+		]
+	},
+	{
+		"title": "Oqila",
+		"slug": "oqila",
+		"description": "Simple landing page for a web studio",
+		"writing": {
+			"process": "Simple landing page for a web studio",
+			"processSub": "",
+			"conclusion": [
+				""
+			]
+		},
+		"stack": [
+			"Html",
+			"Css",
+			"JQuery"
+		],
+		"tags": [
+			"Next.js",
+			"TypeScript",
+			"Micro-frontend",
+			"Beta"
+		],
+		"source": "https://github.com/exc1ut",
+		"demo": "https://oqila.uz/",
+		"thumb": "./images/hoffman.jpg",
+		"images": [
+			"./images/oqila-1.jpg",
+			"./images/oqila-2.jpg",
+			"./images/oqila-3.jpg"
 		],
 		"resources": [
 			"https://www.typescriptlang.org/docs/home.html"

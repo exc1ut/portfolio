@@ -36,6 +36,7 @@ import {
 } from "react-icons/si";
 import { DiSass, DiDotnet, DiPhp, DiPostgresql } from "react-icons/di";
 import { RiGatsbyLine, RiHtml5Line, RiCss3Fill } from "react-icons/ri";
+import { SiThreedotjs, SiTestinglibrary, SiStorybook } from "react-icons/si";
 import { GiKoala } from "react-icons/gi";
 import { VscDatabase } from "react-icons/vsc";
 import { GrMysql } from "react-icons/gr";
@@ -118,9 +119,9 @@ const Skills: React.FC = () => {
           <Anim Icon={SiRedux} name="Redux" />
           <Anim Icon={RiGatsbyLine} name="Gatsby" />
           <Anim Icon={SiNextdotjs} name="Next" />
-          <Anim Icon={RiHtml5Line} name="HTML" />
-          <Anim Icon={RiCss3Fill} name="CSS" />
-          <Anim Icon={DiSass} name="SASS" />
+          <Anim Icon={SiThreedotjs} name="Threejs" />
+          <Anim Icon={SiTestinglibrary} name="Testing-library" />
+          <Anim Icon={SiStorybook} name="Storybook" />
         </Icons>
         <Icons t="c">
           <Anim Icon={SiNextdotjs} name="Express.js" />
@@ -140,7 +141,6 @@ const Skills: React.FC = () => {
         </Icons>
         <Icons t="e">
           <Anim Icon={SiAmazonaws} name="AWS" />
-          <Anim Icon={SiMicrosoftazure} name="Azure" />
           <Anim Icon={SiGithub} name="Github" />
           <Anim Icon={SiNetlify} name="Netlify" />
           <Anim Icon={SiNpm} name="NPM" />
